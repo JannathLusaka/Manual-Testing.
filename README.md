@@ -30,7 +30,7 @@ I have testing these features and answered the asked questions.
 # Answer of Question 1,4 ang 5
 https://docs.google.com/document/d/1CyiV3VRGMgQ5eKlxMTqU2MaUgg3lLyZW/edit?usp=sharing&ouid=105813272865639316259&rtpof=true&sd=true
 
-# Answer of Question 2(Test case writing in standard format)
+# Answer of Question 2(Test Case Writing)
 https://docs.google.com/spreadsheets/d/1rT1EDY6ue__uV8pqfvpm2Wz-EHcGeFpD/edit?usp=sharing&ouid=105813272865639316259&rtpof=true&sd=true
 
 # Answer of Question 3(Bug Reporting)
